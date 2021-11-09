@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Vincent.
+- 👀 I’m interested in Nonproft, Tech, CSR, Sports and Music.
+- 🌱 I’m currently learning a bit of coding!
