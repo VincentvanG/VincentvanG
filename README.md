@@ -5,5 +5,7 @@ With a background in social work, data analysis, nonprofit management, political
 </br></br>
 During my career, I have worked for a wide variety of organizations (nonprofit & for-profit) in the Netherlands, South Africa, Suriname, Greece and Spain. My academic background has its foundation at the Amsterdam University of Applied Sciences (Social Work) and at Universitat Pompeu Fabra in Barcelona (Political Philosophy and Communication Science).
 
+<b><a href="https://www.linkedin.com/in/vincentvangrondelle/">Find me on LinkedIn</a></b>
+
 <H2>Important notice</H2>
 I am not a coder - I just work with great coders at MigraCode Barcelona and like to learn basic HTML/CSS! :)
