@@ -6,6 +6,10 @@ With a background in social work, data analysis, nonprofit management, political
 </br></br>
 During my career, I have worked for a wide variety of organizations (nonprofit & for-profit) in the Netherlands, South Africa, Suriname, Greece and Spain. My academic background has its foundation at the Amsterdam University of Applied Sciences (Social Work) and at Universitat Pompeu Fabra in Barcelona (Political Philosophy and Communication Science).
 </br></br>
+
+![image](https://user-images.githubusercontent.com/55046525/141202193-f7077a85-8521-4421-a7f1-cfae5a729fb6.png)
+
+</br>
 👨‍💻 <i>  I am not a coder - I just work with great coders at MigraCode Barcelona and I try to learn a bit of HTML/CSS :) </i>
 </br>
 
