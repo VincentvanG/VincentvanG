@@ -14,7 +14,7 @@ During my career, I have worked for a wide variety of organizations (nonprofit &
 </br>
 
 <h2>Current position</h2>
-<p>At the moment, I am managing the Spanish branch of Open Cultural Center, an NGO that works towards inclusion and integration of refugees and migrants through educational and cultural activities. Within OCC, I co-founded and continue to manage MigraCode Barcelona: a tech academy for refugees and migrants.</p>
+<p>At the moment, I am managing the Spanish branch of <a href="https://www.openculturalcenter.com" target="blank">Open Cultural Center</a>, an NGO that works towards inclusion and integration of refugees and migrants through educational and cultural activities. Within OCC, I co-founded and continue to manage <a href="https://www.migracode.openculturalcenter.org" target="blank">MigraCode Barcelona</a>: a tech academy for refugees and migrants.</p>
 
 <h2>Previous technical experience</h2>
 <ul>
