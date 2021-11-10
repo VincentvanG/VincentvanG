@@ -18,12 +18,12 @@ During my career, I have worked for a wide variety of organizations (nonprofit &
 
 <h2>Previous technical experience</h2>
 <ul>
-  <li>💼 <b>Founder & IT Consultant </b> @ <a href="https://www.grondelle-it.com" target="blank">Grondelle IT</a></li>
-  <li>📈 <b>Data Analysis Lead </b> @ <a href="https://www.webhelp.com" target="blank">Webhelp</a></li>
+  <li>💼 <b>Founder & IT Consultant </b> @ <a href="https://www.grondelle-it.com" target="_blank">Grondelle IT</a></li>
+  <li>📈 <b>Data Analysis Lead </b> @ <a href="https://www.webhelp.com" target="_blank">Webhelp</a></li>
 </ul>
 
 <h2>How to reach out</h2>
 <ul>
-  <li><b><a href="https://www.linkedin.com/in/vincentvangrondelle/" target="blank">Find me on LinkedIn</a></b></li>
-  <li><b><a href="https://www.instagram.com/vincycling/?hl=en" target="blank">Find me on Instagram</a></b></li>
+  <li><b><a href="https://www.linkedin.com/in/vincentvangrondelle/" target="_blank">Find me on LinkedIn</a></b></li>
+  <li><b><a href="https://www.instagram.com/vincycling/?hl=en" target="_blank">Find me on Instagram</a></b></li>
 </ul>
